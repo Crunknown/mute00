@@ -1,1 +1,1 @@
-pyrogram
+pyrogram-2.0.14-py3
